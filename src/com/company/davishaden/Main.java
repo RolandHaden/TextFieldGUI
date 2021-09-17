@@ -1,3 +1,8 @@
+/*
+Name: Davis Haden
+Date: 9/16/2021
+Desc: a text field panel that describes how many characters there are, how many words, and the average characters per word in the text entered.
+ */
 package com.company.davishaden;
 
 import javax.swing.*;

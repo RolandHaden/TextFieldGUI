@@ -1,3 +1,8 @@
+/*
+Name: Davis Haden
+Date: 9/16/2021
+Desc: the text field panel class
+ */
 package com.company.davishaden;
 
 import java.awt.*;
